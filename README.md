@@ -1,15 +1,14 @@
-# Leet Speak
-***
+# _Leet Speak_
 
-#### A Leet Speak Converter, 4-23-19
+#### _A Leet Speak Converter, 4-23-19_
 
-#### By Megan Schulte, Mike Larragueta, Brian Hensley
+#### _By Megan Schulte, Mike Larragueta, Brian Hensley_
 
-## Description
+## _Description_
 
-blah blah blah
+This is a rad app will convert user input into Leetspeak, for maximum cool 😎.
 
-## Setup/Installation Requirements
+## _Setup/Installation Requirements_
 
 * Make a clone from GitHub at: https://github.com/meganschultepdx/fp-panuccisPizza.git
 * Open in Atom or similar text editor to view code
@@ -17,31 +16,35 @@ blah blah blah
 * you can test functionality in the browser by selecting pizza size and base topping from the drop-downs and adding any additional toppings.
 * you should receive a prompt with the total cost of your pizza.
 
-## Specs
+## _Specs_
 
 |Objectives|example input|example output|
 |-|-|-|
-|return nothing if not a alpha char.|  user enters a number | returns number|
-|Customer chooses 16" pizza from drop-down.|  16" selected from drop-down| $4 is added to base price|
-|Customer chooses cheese for main topping from drop-down|  cheese|no additional cost is added to base price|
-|Customer chooses pepperoni or sausage from drop-down options.|  pepperoni or sausage|$4 added to base cost.|
-|Customer chooses one or more additional toppings from checkboxes.|  -mushrooms, -onions|$1.50 per additional topping is added to base price|
-|Customer hits submit button.|  submit button clicked|pizza choice is totaled and customer receives notice of total cost|
+|Return nothing if not a alpha char.| #$ | #$ |
+|It will replace 'e' with '3' and print it to screen|Eater|3at3r|
+|It will replace 'o' with '0' and print it to screen|Oh crap|0h crap|
+|It will replace capital 'L' with '1' and print it to screen|Little idiot|1ittle idiot|
+|It will replace 't' with '7' and print it to screen|Eater|3at3r|
+|It will replace 's' with 'z' unless its the first char of the string and print it to screen|Sucks|Suckz|
 
-## Known Bugs
+
+
+
+
+## _Known Bugs_
 
 No known bugs
 
-## Support and contact details
+## _Support and contact details_
 
-Contact me at megan.schulte.pdx@gmail.com or create a pull request in GitHub.
+Create a pull request on GitHub.
 
-## Technologies Used
+## _Technologies Used_
 
-I used HTML, CSS, bootstrap, JavaScript, and jQuery to build this webpage.
+I used C# to build this webpage.
 
-### License
+### _License_
 
 GPL, keep information free.
 
-Copyright (c) 2019 Megan Schulte
+Copyright (c) 2019 Megan Schulte, Mike Larragueta, Brian Hensley
