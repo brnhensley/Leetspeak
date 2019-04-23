@@ -3,7 +3,7 @@
 
 #### A Leet Speak Converter, 4-23-19
 
-#### By Megan Schulte, Mike Larrageuta, Brian Hensley
+#### By Megan Schulte, Mike Larragueta, Brian Hensley
 
 ## Description
 
